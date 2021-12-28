@@ -19,6 +19,6 @@ Materials with strong electron-electron couplings have a variety of applications
 
 ### Problem Statement
 
-Design and train a model that predicts the strength ($\alpha_x, \alpha_z$) and shape of interactions between the nuclear spins ($\theta$) from simulated time-dependent magnetization curves, $M_x(t)\ \&\ M_y(t)$.
+Design and train a model that predicts the strength (<img src="https://latex.codecogs.com/svg.image?\alpha_x,&space;\alpha_z" title="\alpha_x, \alpha_z" />) and shape of interactions between the nuclear spins (<img src="https://latex.codecogs.com/svg.image?\theta" title="\theta" />) from simulated time-dependent magnetization curves, <img src="https://latex.codecogs.com/svg.image?M_x(t)\&space;\&\&space;M_y(t)" title="M_x(t)\ \&\ M_y(t)" />.
 
 More details about the problem, data and metrics used refer to this [link](https://github.com/ML4SCI/ML4SCIHackathon/tree/main/NMRSpinChallenge).
